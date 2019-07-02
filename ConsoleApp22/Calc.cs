@@ -66,6 +66,8 @@ namespace ConsoleApp22
 
             public double GetDivision()
             {
+
+
                 try
                 {
                     return Math.Round((firstNumber / secondNumber), 2);
