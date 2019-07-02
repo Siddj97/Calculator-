@@ -134,6 +134,8 @@ namespace ConsoleApp22
 
                 selection = ValidateMenuSelection();
 
+
+
                 while (selection != 9)
                 {
                     double result;
